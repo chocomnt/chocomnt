@@ -1,7 +1,7 @@
 ## Olá! 👋
 - 🌱 Estou atualmente estudando Web Development, Python e SQL
 - 👯 Quero colaborar no que eu puder!
-- 📫 Você pode entrar em contato comigo pelo Discord @miintDesu1
+- 📫 Você pode entrar em contato comigo pelo Discord @miintDesu
 - 😄 Pronomes: Ele/dele
 
 ##
