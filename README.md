@@ -1,5 +1,9 @@
-## Hi there 👋
-- 🌱 I’m currently learning Web Development, Python and SQL
-- 👯 I’m looking to collaborate on anything!
-- 📫 You can reach me on my Twitter(X): @miintDesu and my Discord miintDesu#chocomnt
-- 😄 Pronouns: he/him
+## Olá! 👋
+- 🌱 Estou atualmente estudando Web Development, Python e SQL
+- 👯 Quero colaborar no que eu puder!
+- 📫 Você pode entrar em contato comigo pelo Discord @miintDesu1
+- 😄 Pronomes: Ele/dele, He/Him
+
+<div> 
+  <a href="https://beacons.ai/chocomnt">
+</div>
