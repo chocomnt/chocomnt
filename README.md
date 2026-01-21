@@ -12,7 +12,7 @@
 - JavaScript / TypeScript
 - React / React Native
 - Node.js
-- Java
+- Python
 - Git e Linux
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocomnt&show_icons=true&theme=dark)
