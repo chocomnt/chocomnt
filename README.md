@@ -8,7 +8,7 @@ Desenvolvo soluções integrando hardware e software seguro, com foco em sistema
 
 ## Tecnologias
 
-- **Linguagens:** C/>/C++, Python, TypeScript, JavaScript, SQL
+- **Linguagens:** C/C++, Python, TypeScript, JavaScript, SQL
 
 - **Hardware & IoT:** ESP32, Arduino, PCB Design
 
