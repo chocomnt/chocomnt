@@ -1,4 +1,4 @@
-# Kauan Barbosa - Desenvolvedor Full-Stack focado em Segurança / Web / APIs
+# Kauan Barbosa - Desenvolvedor Full-Stack focado em Segurança/Web.
 
 Desenvolvo soluções integrando hardware e software seguro, com foco em sistemas embarcados em ESP32/Arduino, C++ e ferramentas de automação e segurança ofensiva em Python.
 
