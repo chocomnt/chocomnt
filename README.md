@@ -23,4 +23,4 @@ Desenvolvo soluções integrando hardware e software seguro, com foco em sistema
   
 ---
 
-**Disponível para:** oportunidades remotas / estágio — Cuiabá/MT ou Remoto
+**Disponível para:** Oportunidades remotas / Estágio - Cuiabá/MT ou Remoto
