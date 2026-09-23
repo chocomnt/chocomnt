@@ -16,7 +16,7 @@ Desenvolvo soluções integrando hardware e software seguro, com foco em sistema
 
 ## Tecnologias
 
-- **Linguagens:** [C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)/[C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), Python, TypeScript, JavaScript, SQL
+- **Linguagens:** ![image]({(https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)})[C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)/[C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), Python, TypeScript, JavaScript, SQL
 
 - **Hardware & IoT:** ESP32, Arduino, PCB Design.
 
